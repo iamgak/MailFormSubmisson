@@ -38,7 +38,7 @@
         <p>Your form has been successfully submitted.
         Badhai ho!!</p>
     </div>
-    <a class="button" href="index.html">Go Back to Form</a>
+    <a class="button" href="FormMail.php">Go Back to Form</a>
 </div>
 </body>
 </html>
