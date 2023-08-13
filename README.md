@@ -6,7 +6,7 @@ It's fully Object Oriented code.
 <img src="/submisson.png" alt="this is login page">
 <img src="/mail.png" alt="this is login page">
 <img src="/error.png" alt="this is login page">
-<img src="/sqlErro.png">
+<img src="/SqlErro.png">
 <h3> Technology used</h3>
 HTML<br>
 CSS<br>
