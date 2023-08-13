@@ -8,6 +8,7 @@ PHP<br>
 MySQL<br>
 ## Database Schema
 "create database if not exists submisson"
+<br>
 "create table if not exists inputData (
         name varchar(40) not null,
         email varchar(50) primary key,
