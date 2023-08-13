@@ -4,6 +4,7 @@ It's a php-mysql Script where user fill form details.First, validation of form d
 It's fully Object Oriented code.
 ## Glimpses
 <img src="/mail.png" alt="this is login page">
+<img src="/error.png" alt="this is login page"><img src="/submisson.png" alt="this is login page"><img src="/FormMail.png" alt="this is login page">
 ## Technology used
 HTML<br>
 CSS<br>
