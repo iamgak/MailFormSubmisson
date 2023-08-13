@@ -8,10 +8,11 @@ $db->query("create database if not exists submisson");
 $result=$db->query("create table if not exists inputData (
         name varchar(40) not null,
         email varchar(50) primary key,
-        phone varchar(20) not null,
+        phone bigint not null,
         subject varchar(30),
         message TEXT,
-        submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        ip varchar(100) not null
         
     )");
 
