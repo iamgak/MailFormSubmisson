@@ -58,9 +58,11 @@ class CheckUp {
     }
 }
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {     	
-$test = new CheckUp();
-if($test->validate()){
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+	
+	$test = new CheckUp();//Object Creation 
+	
+	if($test->validate()){
 	try{
 		$escapedName = mysqli_real_escape_string($db, $test->name);
 		$escapedEmail = mysqli_real_escape_string($db, $test->email);
@@ -76,7 +78,7 @@ if($test->validate()){
 		if ($db->query($query)) {
 			$headers = 'From: great@email.com';
     		$mailSent = mail($test->email, $test->subject, $test->message, $headers);
-    		if (!$mailSent) {
+    		if ($mailSent) {
     			header("Location: Success.php");
     		exit();
     		} else {
