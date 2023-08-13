@@ -3,7 +3,7 @@
 It's a php-mysql Script where user fill form details.First, validation of form data using core PHP. It involve checking of all the form details  in respective format using preg_match(),strlen(),empty() and various other functions and after that removal of htmlspecialchar and other scripting part from input data.Then the form is sent to Admin through email using PHP functions mail() and it also record its detail in mysql server. This script does not include any JS part.<br>
 It's fully Object Oriented code.
 ## Glimpses
-<img src="/images/login.png" alt="this is login page">
+<img src="/mail.png" alt="this is login page">
 ## Technology used
 HTML<br>
 CSS<br>
