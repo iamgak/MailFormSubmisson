@@ -7,7 +7,17 @@ CSS<br>
 PHP<br>
 MySQL<br>
 ## Database Schema
-
+"create database if not exists submisson"
+"create table if not exists inputData (
+        name varchar(40) not null,
+        email varchar(50) primary key,
+        phone varchar(20) not null,
+        subject varchar(30),
+        message TEXT,
+        submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        
+    )"
 ## How to use
+just run FormMail.php on localhost
 
 
