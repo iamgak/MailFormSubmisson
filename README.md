@@ -22,7 +22,8 @@ MySQL<br>
         phone bigint not null,
         subject varchar(30),
         message TEXT,
-        submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP)"```
+        submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP)"
+```
 <h3>How to use</h3>
 just run FormMail.php on localhost
 
