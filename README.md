@@ -15,7 +15,8 @@ MySQL<br>
 <h3>Database Schema</h3>
 "create database if not exists submisson"
 <br>
-``` sql
+``` 
+
 create table if not exists inputData (
         name varchar(40) not null,
         email varchar(50) primary key,
@@ -23,9 +24,11 @@ create table if not exists inputData (
         subject varchar(30),
         message TEXT,
         submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+        
 
 ```
-<h3>How to use</h3>
+
+## How to use
 just run FormMail.php on localhost
 
 
