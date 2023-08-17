@@ -1,3 +1,4 @@
+
 # MailFormSubmisson
 This repository contains a simple and visually appealing HTML form with red error messages. The form is designed for contact us or feedback purposes and includes client-side validation with error messages. Additionally, a demo MySQL database setup is included to store form submissions.
 
