@@ -7,11 +7,7 @@ It's a php-mysql Script where user fill form details.First, validation of form d
 It's fully Object Oriented code.
 <h3> Glimpses</h3>
 ![alt smgp](https://github.com/iamgak/MailFormSubmisson/blob/main/images/SqlErro.png)
-
-[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/SqlErro.png]]
-[[/iamgak/MailFormSubmisson/blob/main/images/mail.png | alt message]]
-[[MailFormSubmisson/blob/main/images/error.png | alt message]]
-[[/images/SqlError.png | alt message]]
+<img src="https://github.com/iamgak/MailFormSubmisson/blob/main/images/SqlErro.png">
 <h3> Technology used</h3>
 HTML<br>
 CSS<br>
