@@ -6,12 +6,10 @@ It's a php-mysql Script where user fill form details.First, validation of form d
 It's fully Object Oriented code.
 <h3> Glimpses</h3>
 [[/images/SqlErro.png | alt message]]
-[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/SqlErro.png | alt message]]
-
-<img src="images/submisson.png" alt="this is login page">
-<img src="/images/mail.png" alt="this is login page">
-<img src="/images/error.png" alt="this is login page">
-<img src="/images/SqlErro.png">
+[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/submisson.png | alt message]]
+[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/mail.png | alt message]]
+[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/error.png | alt message]]
+[[https://github.com/iamgak/MailFormSubmisson/blob/main/images/SqlError.png | alt message]]
 <h3> Technology used</h3>
 HTML<br>
 CSS<br>
