@@ -5,7 +5,7 @@ This repository contains a simple and visually appealing HTML form with red erro
 It's a php-mysql Script where user fill form details.First, validation of form data using core PHP. It involve checking of all the form details  in respective format using preg_match(),strlen(),empty() and various other functions and after that removal of htmlspecialchar and other scripting part from input data.Then the form is sent to Admin through email using PHP functions mail() and it also record its detail in mysql server. This script does not include any JS part.<br>
 It's fully Object Oriented code.
 <h3> Glimpses</h3>
-[[/images/SqlErro.png ]]
+[[ images/SqlErro.png ]]
 [[https://github.com/iamgak/MailFormSubmisson/blob/main/images/submisson.png | alt message]]
 [[https://github.com/iamgak/MailFormSubmisson/blob/main/images/mail.png | alt message]]
 [[https://github.com/iamgak/MailFormSubmisson/blob/main/images/error.png | alt message]]
